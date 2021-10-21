@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'antd/dist/antd.css'  // Only need it 1 time (AntD)
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
